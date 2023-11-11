@@ -51,5 +51,5 @@ if 0 <= media <= 10:
 
   print(f"Sua média é {media} e você está em {resultado}.")
 else:
-  print("Você está reprovado")
+  print("As notas devem estar entre 0 e 10.")
     
